@@ -1,0 +1,8 @@
+[Sun Oct 20 17:19:19 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/favicon.ico
+[Sun Oct 20 17:21:04 2013] [error] [client 46.208.50.73] PHP Parse error:  syntax error, unexpected '<' in /var/www/vhosts/tibpresents/index.php on line 5
+[Sun Oct 20 17:21:07 2013] [error] [client 46.208.50.73] PHP Parse error:  syntax error, unexpected '<' in /var/www/vhosts/tibpresents/index.php on line 5
+[Sun Oct 20 17:53:20 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/css/boostrap.css, referer: http://tibpresents.com/
+[Sun Oct 20 17:53:23 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/css/boostrap.css, referer: http://tibpresents.com/
+[Sun Oct 20 17:53:48 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/css/boostrap.css, referer: http://tibpresents.com/
+[Sun Oct 20 18:03:13 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/musicfromklaudia.com, referer: http://tibpresents.com/
+[Sun Oct 20 18:03:57 2013] [error] [client 46.208.50.73] File does not exist: /var/www/vhosts/tibpresents/musicfromklaudia.com, referer: http://tibpresents.com/
