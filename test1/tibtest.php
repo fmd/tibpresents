@@ -1,6 +1,7 @@
 <?php
 
-    echo "gdfgdfhjghd";
+echo "gdfgdfhjghd";
+echo "this is what git is like";
 
 
 ?>
